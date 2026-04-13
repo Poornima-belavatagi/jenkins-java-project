@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> poornima.</h2>
+      <h2> poornimaaaaaaaaa.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
